@@ -111,10 +111,11 @@ border-top: 12px #242424;
 }
 
 .hero .contanier .content .col {
-    width: 800px; height: 450px; background-color: #1676cf; float: left;
+    width: 800px; height: 450px;  float: left;
     border: 2px red;
     padding: 40px;
     margin: 10px;
+    color: #fff;
 }
 
 .hero .contanier .content .col img{
