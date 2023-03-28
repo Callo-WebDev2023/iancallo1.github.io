@@ -1,3 +1,4 @@
+
 *{
     padding: 0;
     margin: 0;
@@ -7,7 +8,7 @@
     transition: 0.4s;
 }
 .hero{
-    background-image: url('../iancallo1.github.io/Resources/images/div5.jpg');
+    background-image: url('../iancallo1.github.io/Resources/images/divi3.jpg');
     height: 100vh;
 }
 .hero .contanier{
@@ -59,7 +60,7 @@
     font-size: 25px;
     font-weight: 700;
     letter-spacing: 1.5;
-    
+    margin-bottom: 30px;
 }
 
 .hero .content .div-text .introduct p {
@@ -105,7 +106,18 @@ border-top: 12px #242424;
     padding-right: 30px;
 }
 
+.hero .contanier .content {
+    width: 1000px; height: 650px; border: 1px; margin: 0 auto;
+}
 
-.play-video{
-    margin-top: 20px;
+.hero .contanier .content .col {
+    width: 800px; height: 450px;  float: left;
+    border: 2px red;
+    padding: 40px;
+    margin: 10px;
+    color: #fff;
+}
+
+.hero .contanier .content .col img{
+     width: 300; height: 200;
 }
