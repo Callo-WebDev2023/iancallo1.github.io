@@ -1,7 +1,7 @@
 # 🔥 PORTFOLIO - HTML & CSS 🔥
 # Ian Brylle G. Callo
 # IT2R5
-# 🌊🌊 site link: https://callo-webdev2023.github.io/iancallo1.github.io/index.html🌊🌊
+# 🌊🌊 site link: https://callo-webdev2023.github.io/iancallo1.github.io/🌊🌊
 
 # Resources Used: 🗿🗿🗿
 
